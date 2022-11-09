@@ -40,16 +40,16 @@ export default function Footer() {
                                 ABELO
                             </h3>
                             <ul className="contact-socials">
-                                <li><a href="#">
+                                <li><a href="/#">
                                         <BsFacebook/>
                                     </a></li>
-                                <li><a href="#">
+                                <li><a href="/#">
                                         <BsInstagram/>
                                     </a></li>
-                                <li><a href="#">
+                                <li><a href="/#">
                                         <BsYoutube/>
                                     </a></li>
-                                <li><a href="#">
+                                <li><a href="/#">
                                         <BsTwitter/>
                                     </a></li>
                             </ul>

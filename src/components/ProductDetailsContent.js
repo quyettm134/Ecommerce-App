@@ -1,6 +1,4 @@
 import React from 'react';
-import { BsFillStarFill, BsCartPlus, BsHeart } from 'react-icons/bs';
-import { BiChevronsRight, BiPlus, BiMinus, BiChevronRight, BiChevronLeft } from 'react-icons/bi';
 import KissPNG from '../assets/images/kisspng-beats-electronics-headphones-apple-beats-studio-red-headphones.png';
 import JBLTune220TWS1 from '../assets/images/JBL_TUNE220TWS_ProductImage_Pink_ChargingCaseOpen.png';
 import JBLHorizon001 from '../assets/images/JBLHorizon_001_dvHAMaster.png';
@@ -16,6 +14,8 @@ import E1FW192 from '../assets/images/190402_E1_FW19_EarbudsWCase_S13_0033-1_160
 import JBLEndurance from '../assets/images/JBL-Endurance-Sprint_Alt_Red-1605x1605px.webp';
 import JBLQuantum400 from '../assets/images/JBL_Quantum_400_Product Image_Hero 02.png';
 import UserImg from '../assets/images/user.png';
+import { BsFillStarFill, BsCartPlus, BsHeart } from 'react-icons/bs';
+import { BiChevronsRight, BiPlus, BiMinus, BiChevronRight, BiChevronLeft } from 'react-icons/bi';
 
 const products = [
     {
