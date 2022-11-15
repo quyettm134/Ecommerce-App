@@ -276,7 +276,9 @@ export default function HomePageContent() {
                                 <p class="sp-item-description">
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore dignissimos itaque et eaque quod harum vero autem? Reprehenderit enim non voluptate! Qui provident modi est non eius ratione, debitis iure.
                                 </p>
-                                <button class="btn-flat btn-hover">shop now</button>
+                                <Link to="/ProductDetails">
+                                    <button class="btn-flat btn-hover">shop now</button>
+                                </Link>
                             </div>
                         </div>
                     </div>
